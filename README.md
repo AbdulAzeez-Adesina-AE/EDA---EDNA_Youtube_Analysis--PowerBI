@@ -31,5 +31,5 @@ The report includes various visualizations, charts, and graphs to present the da
 - Explore the report to discover key insights, such as audience demographics, channel growth trends, and engagement metrics.
 - Identify the most important aspects of the findings to drive future strategies.
 
-[Link to Interactive Power BI Dashboard]([https://www.example.com/powerbi-dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2EzMTQxMmQtNzVmZC00N2Q4LTlkZjEtZTI4YWUwYzEwYzg3IiwidCI6Ijg3Zjc2Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ1MyJ9)https://app.powerbi.com/view?r=eyJrIjoiM2EzMTQxMmQtNzVmZC00N2Q4LTlkZjEtZTI4YWUwYzEwYzg3IiwidCI6Ijg3Zjc2Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ1MyJ9)
+[Link to Interactive Power BI Dashboard](https://[app.powerbi.com/view?r=your-dashboard-report-id](https://app.powerbi.com/view?r=eyJrIjoiM2EzMTQxMmQtNzVmZC00N2Q4LTlkZjEtZTI4YWUwYzEwYzg3IiwidCI6Ijg3Zjc2Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ1MyJ9)https://app.powerbi.com/view?r=eyJrIjoiM2EzMTQxMmQtNzVmZC00N2Q4LTlkZjEtZTI4YWUwYzEwYzg3IiwidCI6Ijg3Zjc2Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ1MyJ9)
 
